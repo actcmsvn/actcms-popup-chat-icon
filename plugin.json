@@ -1,0 +1,11 @@
+{
+    "id": "actcmsvn/popup-chat",
+    "name": "Popup Chat",
+    "namespace": "ACTCMS\\PopupChat\\",
+    "provider": "ACTCMS\\PopupChat\\Providers\\PopupChatServiceProvider",
+    "author": "ACTCMS Vietnam",
+    "url": "https://actcms.io.vn",
+    "version": "1.0.0",
+    "description": "Hiển thị icon popup chat",
+    "minimum_core_version": "1.0.0"
+}
